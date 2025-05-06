@@ -15,7 +15,7 @@ Welcome to the **Professional CORS Vulnerability Proof of Concept (PoC) System**
 1. **Clone the Repository:**
    ```bash
    # Clone the repository
-   git clone https://github.com/hunthack3r/PoCors.git
+   git clone https://github.com/dedcrowd/PoCors.git
    
    # Navigate to the project directory
    cd PoCors
